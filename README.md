@@ -2,7 +2,7 @@
 
 **EDUNUERA-X1** es un módulo educativo diseñado para adquirir señales electrofisiológicas (EEG, EMG y ECG) en aplicaciones de investigación y enseñanza. Combina hardware compacto con facilidad de uso y permite la captura, visualización y análisis de datos en tiempo real.
 
-![Producto](img/Product.png)
+![Producto](img/parts.png)
 
 EDUNUERA-X1 se ofrece como un **módulo listo para laboratorio educativo**, con documentación completa y soporte técnico disponible.
 
