@@ -28,7 +28,7 @@ Solicita un módulo directamente por [**WhatsApp**](https://wa.me/593979287659?t
 
 ### Software:
 - Librería **ma_filter_smooth** para filtrado de señales.
-- Ejemplos en [**Arduino IDE**](https://github.com/estudiosma/eduneura/examples).
+- Ejemplos en [**Arduino IDE**](https://github.com/estudiosma/EduNeura/examples).
 
 ### Hardware ejemplo:
 - Microcontrolador **Arduino MEGA**.
@@ -62,3 +62,18 @@ plot(t, data);
 xlabel('Tiempo (s)');
 ylabel('Amplitud');
 legend("Ch_1");
+```
+
+## Créditos y atribución
+
+Este proyecto fue desarrollado por **Estudios MA**.
+
+Si utilizas este código, hardware o documentación como parte de tu proyecto personal o académico, **por favor referencia como:**
+
+Estudios MA, Molina-Vidal, D.A (2025). EDUNEURA-X1. Disponible en línea: https://github.com/estudiosma/AccelHelp
+
+## ✍️ Autor
+
+**Estudios MA – Ingeniería Electrónica y Biomédica**  
+Ing. Danilo Molina, M.Sc  
+🌐 [https://linkfly.to/EstudiosMA](https://linkfly.to/EstudiosMA)
